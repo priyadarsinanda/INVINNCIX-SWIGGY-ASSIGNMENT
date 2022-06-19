@@ -1,0 +1,225 @@
+body {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+
+}
+
+.logo1 {
+    height: 70px;
+    margin-left: 15%;
+}
+
+.navlinks {
+    color: black;
+    margin: 0 10px;
+    font-weight: 600;
+
+}
+
+.offer {
+    color: black;
+    margin: 0 10px;
+    font-weight: 600;
+}
+
+.offer:hover {
+    color: orange;
+}
+
+
+
+.navlinks1 {
+    color: black;
+    margin: 0 5px;
+    font-weight: 100;
+
+
+}
+
+.sup {
+    color: orange;
+}
+
+.navlinks:hover {
+    color: orange;
+}
+
+
+.logout {
+    color: orange;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.5s;
+
+
+}
+
+.logout:hover {
+    text-decoration: none;
+
+    border-radius: 10%;
+    background-color: orange;
+    color: white;
+}
+
+
+
+
+.section2 {
+    height: 350px;
+    background-color: #171a29;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section2Div {
+
+
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.section2Img {
+    height: 250px;
+
+    transition: all .5s;
+}
+
+.section2Img:hover {
+    height: 260px;
+
+}
+
+.section3 {
+    height: fit-content;
+}
+
+.section3Div1 {
+    padding-top: 50px;
+    margin: auto;
+    width: 60%;
+    height: 1000px;
+
+}
+
+
+.section3H1 {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 25px;
+    display: inline;
+
+
+}
+
+.section3Navbar {
+
+    background-color: white;
+}
+
+.s3fr {
+    margin-left: 276px;
+
+}
+
+.section3Div2 {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.section4Div1 {
+    padding-top: 50px;
+    margin: auto;
+    width: 60%;
+}
+
+.section4Card {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.section4Card1 {
+    border-top: grey solid 1px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.restaurant1 {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.restaurant1:hover {
+    color: black;
+}
+
+
+
+.section3Content {
+    padding: 10px 10px 10px;
+    margin-top: 20px;
+    border: none;
+
+}
+
+.section3Content:hover {
+    border: grey 0.5px solid;
+}
+
+.card-heading {
+    font-size: 17px;
+    text-align: left;
+}
+
+.card-content {
+    font-size: 13px;
+    color: grey;
+
+
+}
+
+.subtext {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    border-bottom: grey solid 0.01px;
+}
+
+.rating {
+    border: none;
+    background-color: #48c479;
+    color: white;
+    width: 50px;
+    font-size: 13px;
+    padding: 0 5px;
+    height: 20px;
+    text-align: center;
+}
+
+.time {
+    font-size: 13px;
+    text-align: center;
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+
+}
+
+.price {
+    font-size: 13px;
+}
+
+.discount {
+
+    color: brown;
+    font-size: 13px;
+    margin-top: 10px;
+}

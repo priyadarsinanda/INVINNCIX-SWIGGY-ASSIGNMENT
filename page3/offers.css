@@ -1,0 +1,139 @@
+body {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+
+}
+
+.logo1 {
+    height: 70px;
+    margin-left: 15%;
+}
+
+.navlinks {
+    color: black;
+    margin: 0 10px;
+    font-weight: 600;
+
+}
+
+.offer {
+    color: black;
+    margin: 0 10px;
+    font-weight: 600;
+}
+
+.offer:hover {
+    color: orange;
+}
+
+
+
+.navlinks1 {
+    color: black;
+    margin: 0 5px;
+    font-weight: 100;
+
+
+}
+
+.sup {
+    color: orange;
+}
+
+.navlinks:hover {
+    color: orange;
+}
+
+
+.logout {
+    color: orange;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.5s;
+
+
+}
+
+.logout:hover {
+    text-decoration: none;
+
+    border-radius: 10%;
+    background-color: orange;
+    color: white;
+}
+
+.section2 {
+    height: 300px;
+    background-color: #005062;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.section2Div1 {
+    width: 500px;
+    padding-left: 50px;
+
+}
+
+.section2Div1H1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+.section2Div1H2 {
+    font-size: large;
+    letter-spacing: 1px;
+    color: #fff;
+    opacity: .8;
+}
+
+.section2Div2 {}
+
+.section2Img1 {
+    height: 200px;
+}
+
+.section3Navbar {
+
+    background-color: white;
+    border-bottom: grey solid 1px;
+}
+
+.section3H1 {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 20px;
+    display: inline;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.section3H2 {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 20px;
+    display: inline;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: grey;
+}
+
+.section4 {
+
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
